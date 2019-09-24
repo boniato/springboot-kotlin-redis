@@ -10,6 +10,7 @@ This project is an example of SpringBoot Data Redis
 * [spring-boot](http://projects.spring.io/spring-boot/)
 
 
+
 **build.gradle**
 
 ```groovy
@@ -18,6 +19,7 @@ This project is an example of SpringBoot Data Redis
     compile group: 'redis.clients', name: 'jedis', version: '2.9.0'
     compile group: 'it.ozimov', name: 'embedded-redis', version: '0.7.1'
 ```
+
 
 
 # Run test
