@@ -28,6 +28,7 @@ public class UserRepository {
 
         Set<String> keys = redisTemplate.keys("*");
         Iterator<String> it = keys.iterator();
+
         while(it.hasNext()){
             userList.add(findById(it.next()));
         }

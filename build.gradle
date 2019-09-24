@@ -34,6 +34,9 @@ dependencies {
     compile group: 'redis.clients', name: 'jedis', version: '2.9.0'
     compile group: 'it.ozimov', name: 'embedded-redis', version: '0.7.1'
 
+    compile 'io.springfox:springfox-swagger2:2.6.1'
+    compile 'io.springfox:springfox-swagger-ui:2.6.1'
+
     compile('org.springframework.boot:spring-boot-starter-web')
     compile group: 'ch.qos.logback', name: 'logback-core', version: '1.2.3'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.9.4'
