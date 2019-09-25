@@ -46,6 +46,13 @@ You can test by using curl, URL, Swagger.
     http://localhost:8081/swagger-ui.html
 ```
 
+<br>
+&nbsp;&nbsp;&nbsp; Screenshot
+<div>
+    <img src="https://user-images.githubusercontent.com/16321663/65635387-2f12a280-e01b-11e9-8339-b55d22fedae2.png" width="75%"></img>
+</div>
+<br>
+
 # How to run test
 The repository contains some test cases to cover both api test and repository test.
 
