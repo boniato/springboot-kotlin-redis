@@ -1,4 +1,4 @@
-# SpringBoot Data Redis Example
+# SpringBoot-Kotlin-Redis Example
 
 This project is an example of SpringBoot Data Redis by using Kotlin.
 
