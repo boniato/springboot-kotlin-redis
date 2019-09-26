@@ -6,7 +6,7 @@ import org.springframework.data.redis.core.RedisHash
 @RedisHash("user")
 class User (
     @Id
-    var id: String,
-    var name: String,
-    var age: Int
+    val id: String,
+    val name: String,
+    val age: Int
 )
