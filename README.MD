@@ -6,8 +6,8 @@ This project is an example of SpringBoot Data Redis by using Kotlin.<br>
 # Technologies
 
 * [kotlin 1.3.50](https://kotlinlang.org/)
-* [embedded gradle](https://gradle.org/)
-* [spring-boot](http://projects.spring.io/spring-boot/)
+* [build.gradle.kts](https://gradle.org/)
+* [spring-boot 2](http://projects.spring.io/spring-boot/)
 
 # Redis library
 **build.gradle**
