@@ -18,14 +18,6 @@ This project is an example of SpringBoot Data Redis by using Kotlin.<br>
         classpath("org.jetbrains.kotlin:kotlin-allopen:$kotlinVersion") // kotlin-spring
         classpath("org.springframework.boot:spring-boot-gradle-plugin:$springBootVersion")
     }
-    
-    ...
-
-    compile ("org.springframework.boot:spring-boot-starter-data-redis")
-    compile ("org.springframework.data:spring-data-redis")
-    compile (group = "redis.clients", name = "jedis", version = "2.9.0")
-    compile (group = "it.ozimov", name = "embedded-redis", version = "0.7.1")
-    compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 ```
 
 # How to run
