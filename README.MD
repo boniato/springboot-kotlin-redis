@@ -1,7 +1,7 @@
 # SpringBoot-Kotlin-Redis Example
 
 This project is an example of SpringBoot Data Redis by using Kotlin.<br>
-기존 Java로 되어있던 프로젝트(https://github.com/boniato/springboot-data-redis)를 Kotlin으로 변경한 개인 프로젝트 입니다.
+기존 Java로 되어있던 프로젝트(https://github.com/boniato/springboot-data-redis) 를 Kotlin으로 변경한 개인 프로젝트 입니다.
 
 # Technologies
 
