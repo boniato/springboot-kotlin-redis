@@ -1,7 +1,7 @@
 # SpringBoot-Kotlin-Redis Example
 
 This project is an example of SpringBoot Data Redis by using Kotlin.<br>
-기존 Java로 되어있던 프로젝트를 Kotlin으로 변경한 개인 프로젝트 입니다.
+기존 Java로 되어있던 프로젝트(https://github.com/boniato/springboot-data-redis)를 Kotlin으로 변경한 개인 프로젝트 입니다.
 
 # Technologies
 
@@ -9,7 +9,7 @@ This project is an example of SpringBoot Data Redis by using Kotlin.<br>
 * [build.gradle.kts](https://gradle.org/)
 * [spring-boot 2](http://projects.spring.io/spring-boot/)
 
-# Redis library
+#kotlin library
 **build.gradle**
 
 ```groovy
@@ -21,7 +21,7 @@ This project is an example of SpringBoot Data Redis by using Kotlin.<br>
 ```
 
 # How to run
-You can test by using curl, URL, Swagger.
+You can test it by using curl, URL, Swagger.
 
 **Curl**
 ```groovy
